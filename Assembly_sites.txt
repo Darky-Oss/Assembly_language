@@ -6,3 +6,7 @@ Link: https://mentebinaria.gitbook.io/assembly/
 Assembly ARM64
 
 Link: https://modexp.wordpress.com/2018/10/30/arm64-assembly/
+
+Risc-v PDF link 
+
+Link: https://www.google.com/url?sa=t&source=web&rct=j&url=http://riscvbook.com/portuguese/guia-pratico-risc-v-1.0.0.pdf&ved=2ahUKEwiN1NCu-M_8AhXjA9QKHWYiBfoQFnoECAkQAQ&usg=AOvVaw0Nbjq91xleg4C1dqYlUft8
