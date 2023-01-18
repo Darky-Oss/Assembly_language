@@ -1,0 +1,8 @@
+Assembly x86_64 Mente Binária
+Assembly x86_64 Binary Mind 
+
+Link: https://mentebinaria.gitbook.io/assembly/
+
+Assembly ARM64
+
+Link: https://modexp.wordpress.com/2018/10/30/arm64-assembly/
