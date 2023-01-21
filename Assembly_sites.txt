@@ -18,3 +18,7 @@ Link: https://youtube.com/playlist?list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt
 Assembly Microcontroladores ( Br )
 
 Link: https://youtube.com/playlist?list=PLZ8dBTV2_5HS6FDb_A7G9fRtjlXM98o6k
+
+Padrão 8086 ( Assembly )
+
+Link: https://github.com/J-AugustoManzano/livro_Assembly-Intro-8086
